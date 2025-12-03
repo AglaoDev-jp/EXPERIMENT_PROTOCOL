@@ -2,12 +2,12 @@
 ---
 
 # EXPERIMENT PROTOCOL_v1
-"── The Experiment continues ──"
+"── The Experiment continues ──"  
 コード、シナリオ、READMEなどのテキスト、画像の作成において、OpenAIの対話型AI「ChatGPT」を使用しています。  
-ムービー素材は、OpenAI が提供する映像生成 AI「Sora」および「Sora 2」により生成しています。
+ムービー素材は、OpenAI が提供する映像生成 AI「Sora」および「Sora 2」により生成しています。  
 このリポジトリでは、ゲームの**ソースコード**と**実行ファイル**を公開しています。  
 ゲームマニュアルは[こちら](./README_PLAY.md)  
-ゲームファイル（実行ファイル）のダウンロードは[こちら]()
+ゲームファイル（実行ファイル）のダウンロードは[こちら]()  
 
 ---
 
@@ -19,7 +19,7 @@
 
 ※使用内容は、画像生成の指示、セリフやシナリオ表現の改善、コード設計、ライセンス文の調整、READMEや概要文の添削など多岐にわたります。　　
 
-■ 動画素材について
+■ 動画素材について  
 
 本作で使用しているムービー素材は、OpenAI が提供する映像生成 AI「Sora」および「Sora 2」により生成し、さらに本作の演出に合わせて編集したオリジナル映像です。  
 Sora / Sora 2 による生成・利用は OpenAI の利用規約を遵守して行われています。  
@@ -180,7 +180,7 @@ AI生成映像は、現実映像との誤認・出典の混同・権利関係の
 ### 著作権表示とライセンス
 
 ## 📂 ライセンスファイルまとめ[licenses](./licenses/)
-- Python [LICENSE-PSF.txt](./licenses/Python_LICENSE.txt)
+- Python [LICENSE-PSF.txt](./licenses/LICENSE-PSF.txt)
 - Pygame [LGPL_v2.1.txt](./licenses/third_party/LGPL_v2.1.txt) 
 - NumPy [NumPy License](./licenses/third_party/LICENSE_NumPy.txt)
 - NumPy(Bundled) [LICENSES_NumPy_Bundled](./licenses/third_party/LICENSES_NumPy_Bundled.txt) 
