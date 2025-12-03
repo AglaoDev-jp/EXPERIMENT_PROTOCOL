@@ -290,7 +290,7 @@ AI生成映像は、現実映像との誤認・出典の混同・権利関係の
 ### 著作権表示とライセンス
 
 ## 📂 ライセンスファイルまとめ[licenses](./licenses/)
-- Python [LICENSE-PSF.txt](./licenses/Python_LICENSE.txt)
+- Python [LICENSE-PSF.txt](./licenses/LICENSE-PSF.txt)
 - Pygame [LGPL_v2.1.txt](./licenses/third_party/LGPL_v2.1.txt) 
 - NumPy [NumPy License](./licenses/third_party/LICENSE_NumPy.txt)
 - NumPy(Bundled) [LICENSES_NumPy_Bundled](./licenses/third_party/LICENSES_NumPy_Bundled.txt) 
